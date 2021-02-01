@@ -135,3 +135,9 @@ CISSP考试必过笔记，通关宝典
 **[CISSP考试指南笔记：4.10 城域网](https://mp.weixin.qq.com/s/s1jdmjmIETW3nl63SC4-eg)**
 
 **[CISSP考试指南笔记：4.11 广域网](https://mp.weixin.qq.com/s/eYJYEgHSnAQ-msP18kF4Og)**
+
+**[CISSP考试指南笔记：4.12 通信通道](https://mp.weixin.qq.com/s/0tHU35NO-HmdZ_5ewsbhrQ)**
+
+**[CISSP考试指南笔记：4.13 远程连接](https://mp.weixin.qq.com/s/tKwO7Gs4ePZKsxAnLMzI1A)**
+
+**[CISSP考试指南笔记：4.14 网络加密](https://mp.weixin.qq.com/s/fsyIu7d2pvt7_FTw-t8wxg)**
